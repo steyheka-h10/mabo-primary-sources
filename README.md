@@ -1,2 +1,7 @@
-# mabo-primary-sources
-A digital primary source collection on the Mabo Decision (Mabo v Queensland No 2, 1992)
+# The Mabo Decision: A Digital Primary Source Collection
+
+## Introduction
+
+The *Mabo v Queensland (No 2)* decision, handed down by the High Court of Australia on June 3, 1992, is one of the most significant legal judgments in Australian history. It overturned the doctrine of *terra nullius*—the notion that Australia was an empty land belonging to no one at the time of British colonisation—and recognised the existence of native title rights for Indigenous Australians. The case was brought by Eddie Mabo, a Meriam man from the Torres Strait Islands, and four other plaintiffs, who argued that their traditional ownership of land on Murray Island (Mer) had survived colonisation and was not extinguished by the Crown's annexation of the islands.
+
+This ruling fundamentally reshaped the relationship between Indigenous peoples and the Australian state, establishing a legal pathway for native title claims and prompting the passage of the *Native Title Act 1993*. It also sparked intense public debate about land rights, reconciliation, and the historical legacy of colonisation. This digital collection brings together key primary sources that illuminate the legal, political, and personal dimensions of the Mabo Decision, offering a resource for students, educators, and anyone interested in understanding this pivotal moment in the struggle for Indigenous justice and recognition.
